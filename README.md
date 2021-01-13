@@ -1,1 +1,2 @@
-# CSCI220-Marsan
+# CSCI220- Franklin Marsan 
+Music Technology
